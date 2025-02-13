@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "postprocessing": "^6.36.3",
+    "three": "^0.169.0",
+    "three-line-outline": "^0.0.7"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
+  }
+}
